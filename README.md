@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a full stack developer with experience in buil
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Abdullah012&show_icons=true&theme=dark)](https://github.com/Muhammad-Abdullah012)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Abdullah012&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Abdullah012)](https://git.io/streak-stats)
 
 <!--
 **Muhammad-Abdullah012/Muhammad-Abdullah012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
